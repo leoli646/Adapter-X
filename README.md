@@ -67,7 +67,7 @@ If you find our code or paper helps, please consider citing:
       title={Adapter-X: A Novel General Parameter-Efficient Fine-Tuning Framework for Vision}, 
       author={Minglei Li and Peng Ye and Yongqi Huang and Lin Zhang and Tao Chen and Tong He and  Jiayuan Fan and Wanli Ouyang},
       year={2024},
-      eprint={2405.20853},
+      eprint={2406.03051},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
