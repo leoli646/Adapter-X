@@ -63,13 +63,11 @@ Extensive experiments across 2D image and 3D point cloud modalities demonstrate 
 If you find our code or paper helps, please consider citing:
 
 ```bibtex
-@misc{li2024adapter-x,
-      title={Adapter-X: A Novel General Parameter-Efficient Fine-Tuning Framework for Vision}, 
-      author={Minglei Li and Peng Ye and Yongqi Huang and Lin Zhang and Tao Chen and Tong He and  Jiayuan Fan and Wanli Ouyang},
-      year={2024},
-      eprint={2406.03051},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{li2024adapter,
+  title={Adapter-X: A Novel General Parameter-Efficient Fine-Tuning Framework for Vision},
+  author={Li, Minglei and Ye, Peng and Huang, Yongqi and Zhang, Lin and Chen, Tao and He, Tong and Fan, Jiayuan and Ouyang, Wanli},
+  journal={arXiv preprint arXiv:2406.03051},
+  year={2024}
 }
 ```
 
